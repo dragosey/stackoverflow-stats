@@ -1,0 +1,19 @@
+Version 2.0.2 - Important changes of how the skin is designed
+
+* New variable to easily imput the URL to parse.
+* New variable to set how much of the screen width do you want the skin to use (in %)
+* [BUG fix] The colors variables are now used in the code
+* Much better element relative positioning
+* Reputation text is now centered
+* All elements are now resizable (finally)
+
+
+Version 2.0.1 - First try to make the elements resizable
+
+
+Version 2.0 - Default 2.0 version of the skin
+
+* Update the parser to match Stack Overflow source code
+* Improved reputation parser by adding ignore whitespace condition
+* New UI using free for commercial use font
+* Updated the depraciated Author tag from [Rainmeter] to [Metadata]
