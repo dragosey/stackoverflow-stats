@@ -6,7 +6,7 @@ After you install it you have to open Stack Overflow Stats.ini file in a text ed
 
 All set. You are ready to go!
 
-[CurrentVersion]: 2.0.1
+[CurrentVersion]: 2.0.2
 [Github]: https://github.com/dragosey/stackoverflow-stats
 
 If you like it, hate it or just want to say hello please contact me: dragos.n.sandu [at] gmail.com
