@@ -1,3 +1,24 @@
+Version 2.1 - Ready for going online
+
+* Readme file updated
+* Screenshot with the skin added
+
+
+Version 2.0.5
+
+* Updated the description of the skin
+
+
+Version 2.0.4
+
+* Updated the License Agreement
+
+
+Version 2.0.3
+
+* Variables.ini file added for easy access to the variables users have to edit
+
+
 Version 2.0.2 - Important changes of how the skin is designed
 
 * New variable to easily imput the URL to parse.
